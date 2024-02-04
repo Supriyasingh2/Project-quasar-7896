@@ -20,6 +20,7 @@ This project is built using the following technologies:
 - Clone the repository: git clone <a href="https://github.com/Alipakkr/Project-quasar-7896.git">https://github.com/Alipakkr/Project-quasar-7896.git</a>
 - Navigate to the project directory: cd Project-quasar-7896
 - Open the <a href="index.html">index.html</a> file in your preferred web browser.
+- <a href="https://project-quasar-7896.netlify.app/">Live Link</a>
 
 ## Home Page :-
 
